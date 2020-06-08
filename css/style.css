@@ -719,6 +719,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item img {
   transition: all ease-in-out 0.4s;
+  padding: 50px;
   width: 100%;
 }
 
